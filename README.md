@@ -17,5 +17,5 @@ And have decided to get into learning how to become a software developer, so her
 - As a kid, I wanted to make games, and while I may not move into that sector, it should be expected that a few personal projects in my life will definitely capture that dream.
 
 ### 📫 Contact
-- For a quick response, DM me on LinkedIn.
+- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tai-rose/).
 
