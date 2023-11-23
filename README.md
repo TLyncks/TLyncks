@@ -1,4 +1,4 @@
-# Hey, I'm Tai 👋
+##### Hey, I'm Tai 👋
 ### I'm a 21-year-old individual learning to become a developer of sorts, and based in the United Kingdom. I'm very passionate about learning and creating digital experiences.
 
 ## 🔭  My current aims and ongoing progress:
