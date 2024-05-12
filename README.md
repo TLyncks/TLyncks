@@ -1,21 +1,22 @@
 ### Hey, I'm Tai 👋
-I'm a 21-year-old individual learning to become a developer of sorts, and based in the United Kingdom. I'm very passionate about learning and creating digital experiences.
+I'm a 21-year-old learning to become a developer of sorts, and based in the United Kingdom. I'm very passionate about learning and creating digital experiences.
 
-### 🔭  My current aims and ongoing progress:
-I'm currently working in the Finance Industry, where my career involves logistical thinking, professional communication, and constant learning. 
+### 🔭 My current aims and ongoing progress:
+I'm currently working in the Finance Industry, where my career involves logistical thinking, professional communication, and constant learning. Unfortunately, my passion lies elsewhere, and that is what has brought me here!
 
-And have decided to get into learning how to become a software developer, so here's what I'm currently focused on:
+My main goal at the moment is switching careers, and to do this I know I need to lay the foundations so to speak (And there is a lot); So here's what I'm currently focused on:
 
-- I'm engaged in learning JavaScript as my first fully learned coding language.
-- I have a basic understanding of Python which I will be aiming to brush up on soon!
-- I'm a bit of a learner, so significant amount of time learning in my spare time. From 'How is it made?' videos, to 'How does the Hadron Collider work?', I will one day learn it all... even if I do not need to know it.
+- I'm engaged in learning Python as my first coding language. I have a basic understanding of Python already from long ago when I was much younger, but there has been many changes since then!
+- I am participating in Harvard's CS50 Courses, in particular CS50P, with the intention to continue with their broader computer science course CS50x.
+- And seeing as I am still learning, I am also trying to expand my network to connect with others in the field and learn from their advice and guidance! 
 
 ### ✨ About Me
-- I have always loved tech and software, I consider myself an avid gamer... if that helps provide some idea of where that interest comes from. 😂
-- I am a huge fan of Star Wars, Destiny, Star Citizen, and just anything you can slap a nerdy tag on really haha.
-- I love everything tech-related, and strangely enjoy building PCs, even building and teaching friends how to construct their own. (For free)
-- As a kid, I wanted to make games, and while I may not move into that sector, it should be expected that a few personal projects in my life will definitely capture that dream.
+- I'm love learning new things, and collecting hobbies like they have a pokedex. A significant amount of my spare time is spent learning something new, and I think this space has more than enough to keep me busy!
+- I am a huge fan of Star Wars, Destiny, Warhammer 40k... I could go on. Really I love pretty much most things. And, consider myself an avid gamer. 😂
+- I always loved IT, art, and maths growing up; and often got involved with activities with elements of logic and design.
+- As a kid, I wanted to make games, admittedly it has always been my biggest hobby; And while I may not move into that sector, I will definitely dabble in a few personal projects to capture that dream.
 
 ### 📫 Contact
 - For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tai-rose/).
+- Please feel free to reach out! I love to grow and meet new people. :)
 
