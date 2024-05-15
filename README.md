@@ -11,7 +11,7 @@ My main goal at the moment is switching careers, and to do this I know I need to
 - And seeing as I am still learning, I am also trying to expand my network to connect with others in the field and learn from their advice and guidance! 
 
 ### ✨ About Me
-- I'm love learning new things, and collecting hobbies like they have a pokedex. A significant amount of my spare time is spent learning something new, and I think this space has more than enough to keep me busy!
+- I love learning new things, and collecting hobbies like they have a pokedex. A significant amount of my spare time is spent learning something new, and I think this space has more than enough to keep me busy!
 - I am a huge fan of Star Wars, Destiny, Warhammer 40k... I could go on. Really I love pretty much most things. And, consider myself an avid gamer. 😂
 - I always loved IT, art, and maths growing up; and often got involved with activities with elements of logic and design.
 - As a kid, I wanted to make games, admittedly it has always been my biggest hobby; And while I may not move into that sector, I will definitely dabble in a few personal projects to capture that dream.
