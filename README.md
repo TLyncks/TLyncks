@@ -1,10 +1,10 @@
 ### Hey, I'm Tai 👋
-I'm 21 and based in the United Kingdom. 🇬🇧
+I'm 22 and based in the United Kingdom. 🇬🇧
 
 ### 🔭 My current aims and ongoing progress:
-After having previously worked in the Finance Industry, and even achieving a Bachelors Degree in Accounting and Finance, I made the decision that the sector was not where I belonged; hence the reason I am here!
+Right now I work in Finance, and have done for the past few years, and even achieved a Bachelors Degree in Accounting and Finance. However, I have made the decision that this sector is not where I belong; hence the reason I am here, recapturing my passion!
 
-My main goal at the moment is switching careers, and to do this I know I need to lay the foundations so to speak (And there is a lot); So here's what I'm currently focused on:
+My main goal at the moment is switching careers, and to do this I know I need to catch-up where I left off and build on those foundations so to speak (And there is a lot); So here's what I'm currently focused on:
 
 Right now I am currently studying Masters Course (MSc) in Information and Communication Technology (ICT); this contains modules which cover the following subjects:
  
@@ -13,14 +13,14 @@ Right now I am currently studying Masters Course (MSc) in Information and Commun
  - Wed development (As of yet I have not started this module, though I will expect it to focus on languages such as HTML, CSS, and JavaScript)
  - Cyber Security
 
-Alongside my formal studies, I am engaged in learning Python, and JavaScript in my spare time. I have a basic understanding of Python already from long ago when I was much younger, but there has been many changes since then! Additionally, through the Summer of 2024, I participated in Harvard's CS50 Courses, in particular CS50P and the first half of CS50X.
+Alongside my formal studies, I am engaged in learning Python in my spare time; Though I already have a basic understanding of Python from long ago when I was younger, and there has been a few changes since then so it's more like catching up!
 
-And seeing as I am still learning, I am also trying to expand my network to connect with others in the field and learn from their advice and guidance! 
+I am still learning and re-entering the sector, I am also trying to expand my network to connect with others and learn from their advice and guidance! 
 
 ### ✨ About Me
-Growing up I always loved IT, art, and maths, and even now I love learning and reading! Currently I am reading The Brothers Karamazov by Fyodor Dostoevsky. 
+Growing up I have always loved tech, art, maths, and gaming, and in recent years have found passion in learning and reading; I am currently reading The Brothers Karamazov by Fyodor Dostoevsky. 
 
-I am a huge fan of many IPs such as Star Wars, Destiny, Warhammer 40k... I could go on. Really I love pretty much most things nerd-centric it seems. As a kid, I wanted to make games, because admittedly it has always been my core hobby; Though, now I undestand how volative that market can be, I may not move into that sector, but I will definitely dabble in a few personal projects to capture that dream.
+I am a huge fan of many IPs such as Star Wars, Destiny, Warhammer 40k... I could go on. Really I love pretty much most things nerd-centric. As a kid, I wanted to make games, because admittedly it has always been my core hobby; While I may not focus on this sector as a profession, I will definitely dabble in a few personal projects to capture that dream.
 
 ### 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tai-rose/).
