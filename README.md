@@ -13,9 +13,7 @@ Recently I graduated a Masters Course (MSc) in Information & Communication Techn
  - Wed development (Developing and launching fully functional websites using HTML, CSS, JavaScript, and SQL on a localhost server)
  - Cyber Security 
 
-Alongside my formal studies, I am engaged in learning Python in my spare time; Though I already have a basic understanding of Python from long ago when I was younger, and there has been a few changes since then so it's more like catching up!
-
-I am still learning, but I am trying to expand my network and connect with others to build meaningful relationships and share ideas!
+I am engaged in building on my Python and SQL knowledge in my spare time. And I am trying to expand my network and connect with others to build meaningful relationships and share ideas!
 
 My current tech-stack:
 
