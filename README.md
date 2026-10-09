@@ -2,9 +2,9 @@
 I'm 23 and based in the United Kingdom. 🇬🇧
 
 ### 🔭 My current aims and ongoing progress:
-Currently I work in Finance, and have done for the past few years. I have made the decision that the finance sector is not where I belong, and I want to build a career in tech where my passion lies!
+Currently I work in Finance.
 
-My main goal at the moment is achieving the career switch, and I have been actively working towards this: 
+My main goal at the moment is building fun projects and developing my skills, and I have been actively working towards this: 
 
 Recently I graduated a Masters Course (MSc) in Information & Communication Technology which was comprised of the following modules: 
 
